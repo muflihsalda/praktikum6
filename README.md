@@ -52,18 +52,15 @@ Bagian if __name__ == "__main__"::
 
 ![image](https://github.com/user-attachments/assets/f78f3356-3732-4a31-a70a-d1a56aa14c26)
 
+Bagian ini adalah loop utama yang akan terus berjalan hingga pengguna memilih untuk keluar.
+Menampilkan menu pilihan kepada pengguna untuk memilih operasi yang diinginkan.
+Mengambil input dari pengguna dan memanggil fungsi yang sesuai berdasarkan pilihan pengguna.
+
 # hasil program
 ![hasil program1](https://github.com/user-attachments/assets/c683b8fd-1132-4d8b-b7cf-63aa7173854d)
 
 
 ![hasil program2](https://github.com/user-attachments/assets/34a2fae6-fb20-4ba6-8a32-61226d03adcf)
-
-
-
-
-Bagian ini adalah loop utama yang akan terus berjalan hingga pengguna memilih untuk keluar.
-Menampilkan menu pilihan kepada pengguna untuk memilih operasi yang diinginkan.
-Mengambil input dari pengguna dan memanggil fungsi yang sesuai berdasarkan pilihan pengguna.
 
 # Flowchart
 Berikut adalah flowchart yang menggambarkan alur kerja program:
