@@ -52,6 +52,11 @@ Bagian if __name__ == "__main__"::
 
 ![image](https://github.com/user-attachments/assets/f78f3356-3732-4a31-a70a-d1a56aa14c26)
 
+# hasil program
+![image](https://github.com/user-attachments/assets/7f053951-6d73-4c67-a6b8-efd2f242dc0d)
+![image](https://github.com/user-attachments/assets/92224fcb-251e-4161-a453-79b81f3be0be)
+
+
 
 Bagian ini adalah loop utama yang akan terus berjalan hingga pengguna memilih untuk keluar.
 Menampilkan menu pilihan kepada pengguna untuk memilih operasi yang diinginkan.
