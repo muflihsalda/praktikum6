@@ -65,7 +65,8 @@ Mengambil input dari pengguna dan memanggil fungsi yang sesuai berdasarkan pilih
 # Flowchart
 Berikut adalah flowchart yang menggambarkan alur kerja program:
 
-![flowchart](https://github.com/user-attachments/assets/ffc76155-54e7-4ef7-8c77-f828f38282f4)
+![flowchart](https://github.com/user-attachments/assets/b176f81d-2e09-427c-805d-1e68b71df4c1)
+
 
 Penjelasan Flowchart
 (Mulai Program): Titik awal dari program.
