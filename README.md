@@ -64,11 +64,19 @@ Berikut adalah flowchart yang menggambarkan alur kerja program:
 
 Penjelasan Flowchart
 (Mulai Program): Titik awal dari program.
+
 (Tampilkan Menu): Menampilkan pilihan menu kepada pengguna.
+
 (Pilih Menu): Pengguna memilih salah satu opsi dari menu.
+
 (Tambah Data Mahasiswa): Jika pengguna memilih untuk menambah data, proses ini akan dijalankan, dan setelah selesai, kembali ke menu.
+
 (Tampilkan Data Mahasiswa): Jika pengguna memilih untuk menampilkan data, proses ini akan dijalankan, dan setelah selesai, kembali ke menu.
+
 (Hapus Data Mahasiswa): Jika pengguna memilih untuk menghapus data, proses ini akan dijalankan, dan setelah selesai, kembali ke menu.
+
 (Ubah Data Mahasiswa): Jika pengguna memilih untuk mengubah data, proses ini akan dijalankan, dan setelah selesai, kembali ke menu.
+
 (Keluar dari Program): Jika pengguna memilih untuk keluar, program akan berhenti.
+
 (Tidak Valid): Jika pilihan tidak valid, program akan kembali ke langkah untuk menampilkan menu.
