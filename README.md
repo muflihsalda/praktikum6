@@ -53,9 +53,11 @@ Bagian if __name__ == "__main__"::
 ![image](https://github.com/user-attachments/assets/f78f3356-3732-4a31-a70a-d1a56aa14c26)
 
 # hasil program
-![image](https://github.com/user-attachments/assets/7f053951-6d73-4c67-a6b8-efd2f242dc0d)
+![hasil program1](https://github.com/user-attachments/assets/c683b8fd-1132-4d8b-b7cf-63aa7173854d)
 
-![image](https://github.com/user-attachments/assets/92224fcb-251e-4161-a453-79b81f3be0be)
+
+![hasil program2](https://github.com/user-attachments/assets/34a2fae6-fb20-4ba6-8a32-61226d03adcf)
+
 
 
 
